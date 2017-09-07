@@ -1,5 +1,5 @@
 name:                SCalendar
-version:             0.1.0.0
+version:             0.0.0.1
 synopsis:            This is a library for handling calendars and resource availability based on the "top-nodes algorithm" and set operations.
 -- description:
 homepage:            https://bitbucket.org/sebastuztra/destinosrestapi/src
